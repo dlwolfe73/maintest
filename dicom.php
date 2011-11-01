@@ -1,4 +1,5 @@
 <?php
+//Testing it out
 
 require 'dicom/nanodicom.php';
 $dir = 'C:/wamp/www/chiro/documents/dicom/wrix/';
